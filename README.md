@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmaDev2
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning FlutterFlow
+- 🌱 I’m currently learning FlutterFlow and Python
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me omadev2@gmail.com
 
